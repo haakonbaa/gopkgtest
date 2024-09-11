@@ -1,12 +1,8 @@
-package main
+package somepkg
 
 import (
 	"fmt"
 )
-
-func main() {
-
-}
 
 func SomePKG() {
 	fmt.Println("Hello from SomePKG!")
